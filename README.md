@@ -19,12 +19,12 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd decentratwitter
+$ cd twitter
 $ npm install
 ```
 ### 3. Boot up local development blockchain
 ```
-$ cd decentratwitter
+$ cd twitter
 $ npx hardhat node
 ```
 
